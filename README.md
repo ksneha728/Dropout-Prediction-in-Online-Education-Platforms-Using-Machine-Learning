@@ -10,7 +10,6 @@ a robust ML framework to identify at-risk learners early. Results demonstrate th
 advanced ML models, such as Random Forests and deep learning architectures,
 achieve high predictive accuracy, enabling targeted interventions and improved re-
 tention strategies.
-# Introduction
 Importance of the Problem
 The emergence of online education platforms, such as Coursera, edX, and Udemy, has
 revolutionized access to education. Despite their transformative potential, these plat-
